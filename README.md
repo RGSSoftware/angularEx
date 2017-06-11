@@ -7,7 +7,8 @@
 [jwt authentication example](https://github.com/cornflourblue/angular-jwt-authentication-example)
   
 ### angular 1.4 <=  
-[Recipes](http://fdietz.github.io/recipes-with-angular-js/index.html)
+[Recipes](http://fdietz.github.io/recipes-with-angular-js/index.html)  
+[Providers](https://gist.github.com/demisx/9605099)
 
 
 ### angular 1.x docs  
