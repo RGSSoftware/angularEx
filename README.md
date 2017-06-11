@@ -15,3 +15,6 @@
 [Docs](https://docs.angularjs.org/error/$controller/ctrlreg?p0=Login.IndexController)  
 [Interceptors](http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)  
 [Providers](https://gist.github.com/demisx/9605099)  
+
+
+[ui-route rules](https://github.com/angular-ui/ui-router/wiki/Multiple-Named-Views)
